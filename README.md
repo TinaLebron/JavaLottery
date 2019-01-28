@@ -1,6 +1,6 @@
 # JavaLottery
 
-目的: 之前在C#_WindowsForms有小型樂透,所以試著嘗試用其它程式語言,像是Java
+目的: 之前在C#_WindowsForms有做過小型樂透,所以試著嘗試用其它程式語言,像是Java
 
 小型樂透(C#_WindowsForms): https://github.com/TinaLebron/Csharp_WindowsFormsSmallWork
 
